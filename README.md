@@ -1,4 +1,4 @@
-# Coursera_Capstone
+# Applied Data Science Capstone
 ## A description of the problem and a discussion of the background.
 From a business class that I took in the past, the most important factor of succeeding in the retail industry is it's location. Where ever there is a good traffic of people, the sales sky rockets due to the people entering the store.
 
